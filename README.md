@@ -47,7 +47,8 @@ data_mining/
 ├── Code/
 │   └── RecommendationSys(GH1026152).ipynb
 ├── Data/
-│   └──
+│   └── movies.csv
+│   └── ratings.csv
 └── README.md
 
 
